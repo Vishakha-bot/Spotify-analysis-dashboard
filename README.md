@@ -9,9 +9,9 @@ This project aims to transform Spotify listening history into actionable insight
 The dashboard features interactive filters and dynamic visualizations that enable users to explore Spotify listening trends, compare yearly performance, analyze top artists, albums, and tracks, visualize listening patterns through heatmaps and scatter plots, and examine detailed track-level insights within a responsive dark-themed interface.
 
 **Dashboard Pages**
+
 **Overview page:-**
 Shows high-level insights including:
-
 - Total Albums Played
 - Total Artists
 - Total Tracks
@@ -21,29 +21,35 @@ Shows high-level insights including:
 - Top 5 Tracks
 - Year-over-Year comparison
 
-- **Listening Patterns**
-- Analyzes listening behaviour using:
 
+
+ **Listening Patterns**
+- Analyzes listening behaviour using:
 - Listening Heatmap (Hour × Day)
 - Scatter Plot
 - Average Listening Time
 - Track Frequency Distribution
 
-- **Details**
-- Provides detailed information including:
 
+
+ **Details**
+- Provides detailed information including:
 - Album Name
 - Artist Count
 - Track Count
 - Listening Time
 - Average Listening Duration
 
-- **Tools & Technologies**
+
+
+ **Tools & Technologies**
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel / CSV
 - Data Modeling
+
+
 
 **Skills Demonstrated**
 - Data Cleaning
