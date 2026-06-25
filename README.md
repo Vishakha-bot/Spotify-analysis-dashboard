@@ -54,6 +54,3 @@ Shows high-level insights including:
 - Data Visualization
 - Business Intelligence
 - KPI Development
-
-  
-- 
